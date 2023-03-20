@@ -5,4 +5,4 @@ channels:
 dependencies:
   - anarci
   - streamlit
-prefix: /home/tsatlawa/miniconda3/envs/num_cmp
+
