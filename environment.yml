@@ -4,5 +4,3 @@ channels:
   - defaults
 dependencies:
   - anarci
-  - streamlit
-
