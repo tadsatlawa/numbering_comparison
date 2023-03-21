@@ -6,5 +6,4 @@ channels:
 dependencies:
   - anarci
   - pip
-  - pip:
-        - streamlit
+  - streamlit
