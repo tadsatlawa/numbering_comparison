@@ -1,8 +1,10 @@
 name: num_cmp
 channels:
   - bioconda
+  - conda-forge
   - defaults
 dependencies:
   - anarci
+  - pip
   - pip:
         - streamlit
